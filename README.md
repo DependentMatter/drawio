@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local diagrams.net / draw.io study project
 
 This is the official open-source editor from [jgraph/drawio](https://github.com/jgraph/drawio) (Apache 2.0). [app.diagrams.net](https://app.diagrams.net/) is draw.io Ltd’s hosted deployment of that editor.
@@ -35,3 +36,7 @@ Local static hosting has no Google Drive / OneDrive sign-in and no Java export p
 ## License
 
 draw.io source is Apache 2.0. Read `drawio/LICENSE`. The draw.io name is a trademark; do not imply affiliation with draw.io Ltd.
+=======
+# drawio
+use for drawing 
+>>>>>>> aa4ffa078fe7aedfe7bfa9c8491b9a8f204bbc1c
