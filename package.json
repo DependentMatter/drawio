@@ -1,0 +1,9 @@
+{
+  "name": "diagrams-local-study",
+  "private": true,
+  "description": "Local runner for the official open-source draw.io editor (Apache 2.0)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
